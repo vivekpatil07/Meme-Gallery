@@ -1,8 +1,8 @@
-##Assignment
+# Assignment
 
 Create a gallery of memes using NextJS that renders posts from reddit.com/r/memes.
 
-#Instructions
+# Instructions
 
 • You can use reddit's API to fetch the thumbnail and url for each post.
 
